@@ -1,0 +1,59 @@
+body {
+    background-color: blue
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2.titulo1{
+    color: white;
+    text-align: left;
+}
+h2.titulo2 {
+    color: white;
+    text-align: left;
+    
+    
+}
+
+#p1 {
+    background-color: yellow;
+    color: black;
+    margin-left: 4px
+
+}
+
+#p2 {
+    background-color: white;
+    color: blue;
+    margin-left: 4px;
+}
+
+.imgcar {
+    border: solid red 3px;
+    float: left;
+    height: 200px;
+    margin-right: 4px;
+    width: 320px;
+}
+
+.imgdown {
+    width: 320px
+}
+.cleaner {
+    clear: both;
+}
+.w25 { 
+    width: 25%;
+}
+.w75 {
+    width: 75%;
+}
+.f-left {
+    float: left;
+}
+.f-right {
+    float: right;
+}

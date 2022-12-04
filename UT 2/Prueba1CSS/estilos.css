@@ -1,0 +1,49 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+h1 + p {
+    font-size: 50px;
+}
+
+li {
+    text-align: center;
+}
+
+p,
+li {
+    color: darkblue;
+}
+
+li {
+    list-style-type: decimal;
+}
+
+p em {
+    color: blueviolet;
+    text-transform: capitalize;
+}
+
+ul li h1 {
+    color: crimson;
+}
+
+li.especial {
+    color: red;
+    text-orientation: sideways-right;
+}
+
+a:link{
+    color:blue
+}
+
+a:visited{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration-line: underline;
+}

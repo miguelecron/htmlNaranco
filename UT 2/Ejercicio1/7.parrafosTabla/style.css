@@ -1,0 +1,36 @@
+body {
+    background-color: blue;
+    color: white;
+    text-align: justify;
+}
+h1 {
+    text-align: center;
+}
+#t1{
+    color: red;
+}
+#t2{
+    color: orange;
+}
+#t3{
+    color: yellow;
+}
+#p1{
+    text-indent: 3em;
+}
+#p2{
+    text-decoration: line-through;
+}
+#p3{
+    text-decoration: underline red;
+}
+img{
+height: 150px;
+width: 300px;
+}
+table{
+    margin: auto;
+}
+td{
+    border: solid 2px white;
+}
